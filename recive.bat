@@ -1,0 +1,1 @@
+"RemoteManCLI.exe" -target usb -rfr /mnt/f0/ABC ABC -run 0 -q

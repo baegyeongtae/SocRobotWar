@@ -1,0 +1,1 @@
+"RemoteManCLI.exe" -target usb -rfw /mnt/f0/huro2018 huro2018 -run 0 -q
